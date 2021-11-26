@@ -1,0 +1,4 @@
+Sun 17 Oct 11:36:16 BST 2021 	 0 arandomfile.awk
+Sun 17 Oct 11:36:16 BST 2021 	 0 awkfileisawk.txt
+Sun 17 Oct 11:36:16 BST 2021 	 0 awkoutputfile.txt
+Sun 17 Oct 11:36:16 BST 2021 	 19 myawkscript.awk
